@@ -1,0 +1,6 @@
+{
+  "name": "Mini-SOC | Threat Detection & Incident Communication Generator",
+  "description": "Enterprise-grade cybersecurity monitoring, threat detection, log analytics, and verified incident communication platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
